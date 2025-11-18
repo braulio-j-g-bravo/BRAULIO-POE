@@ -1,0 +1,16 @@
+[
+  {
+    "recipient": "+27831234567",
+    "message": "Hello, this is a stored message from JSON!",
+    "status": "STORED",
+    "messageID": "101",
+    "messageHash": "10:1:HELLO_JSON"
+  },
+  {
+    "recipient": "+27839876543",
+    "message": "Remember our meeting tomorrow",
+    "status": "STORED",
+    "messageID": "102",
+    "messageHash": "10:2:REMEMBER_TOMORROW"
+  }
+]
